@@ -1,0 +1,38 @@
+Privacy Policy
+Last updated: 22/12/2024
+
+INFRES ("the Bot") values your privacy. This Privacy Policy outlines how the Bot collects, uses, and protects your information. By using the Bot, you agree to the practices described in this policy.
+
+1. Information We Collect
+The Bot may collect the following types of data:
+
+User Data: Discord User IDs, server IDs, and message content if required for Bot functionality.
+Server Data: Information about the server where the Bot is added (e.g., channel names, roles).
+Usage Data: Logs of commands executed, timestamps, and other interaction details.
+2. How We Use Your Information
+The data collected by the Bot is used to:
+
+Provide and improve the Bot's functionality.
+Respond to user commands and perform actions as requested.
+Ensure compliance with Discord’s Terms of Service and community guidelines.
+3. Data Storage and Retention
+Data is stored securely and only for as long as necessary to fulfill its purpose.
+Temporary data (e.g., message content for command processing) is not stored long-term.
+Logs and non-essential data are deleted periodically.
+4. Data Sharing
+The Bot does not sell, rent, or share your data with third parties.
+Data may be disclosed if required by law or to protect the Bot's integrity and users.
+5. User Controls
+Users may request the deletion of their data by contacting the developer at [Your Contact Information].
+Server administrators can remove the Bot at any time, which halts all data collection for that server.
+6. Security
+Reasonable measures are in place to protect your data from unauthorized access or misuse.
+However, no system is 100% secure, and users acknowledge the inherent risks of data transmission online.
+7. Children's Privacy
+The Bot is not intended for individuals under the age of 13, in compliance with Discord's policies.
+The Bot does not knowingly collect information from users under 13 years of age.
+8. Changes to this Privacy Policy
+This Privacy Policy may be updated from time to time.
+Users will be notified of significant changes through the Bot's announcement channels or another appropriate method.
+9. Contact Information
+If you have questions or concerns about this Privacy Policy, please contact the developer owner of this repo github.
